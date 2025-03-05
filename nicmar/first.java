@@ -31,5 +31,6 @@ public class first {
         double num5=num1;
         System.out.println(num4);
         System.out.println(num5);
+        System.out.println(x);
     }
 }
