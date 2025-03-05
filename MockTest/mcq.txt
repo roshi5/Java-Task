@@ -1,0 +1,23 @@
+1.a)32 and 64
+2.d)short to int
+3.a)-127
+4.b)int[] a ={1,2,3}
+5.b)objects
+6.b)bc
+7.d)-1
+8.b)void
+9.b)3.0
+10.b)stack
+11.d)6
+12.d)Zero fill Right shift
+13.b)use of pointers
+14.d)default
+15.a)compilation error
+16.b)private
+17.a)the condition to end the recursion
+18.a)5 4 3 2 1
+19.b)/* */
+20.a)final
+
+
+
